@@ -1,2 +1,2 @@
-No code No pain
-experiment with amend
+No code No life
+experiment with git add -i
