@@ -1,3 +1,3 @@
-No code No life
+No code No problem and No life
 experiment with git add -i
-and it is failed
+and it is work, im genius
